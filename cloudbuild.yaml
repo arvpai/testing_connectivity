@@ -1,4 +1,5 @@
 # [START cloudbuild_basic_config]
+# yaml code
 steps:
   # Docker Build
   - name: 'gcr.io/cloud-builders/docker'
